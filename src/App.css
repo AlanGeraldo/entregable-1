@@ -1,0 +1,20 @@
+.main {
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.img1 {
+    background-image: url('/images/img1.jpg');
+}
+.img2 {
+    background-image: url('/images/img2.jpg');
+}
+.img3 {
+    background-image: url('/images/img3.jpg');
+}
+.img4 {
+    background-image: url('/images/img4.jpg');
+}
+
